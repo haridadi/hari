@@ -1,0 +1,54 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hari Krishna - AI & ML Student</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        ul {
+            list-style-type: none;
+        }
+        li {
+            font-size: 18px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Profile</h1>
+        <p>I'm Hari Krishna, a 2nd-year AI & ML student.</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>Hello! I'm Hari Krishna, currently studying in the 2nd year of the Artificial Intelligence & Machine Learning program at Vishaka Institute of Engineering Technology. Below are my technical skills:</p>
+        
